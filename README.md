@@ -1,4 +1,4 @@
-### Hi there  meu nome é Kleverson, sou aluno do curso de sistemas de informação da Universidade federal da Paraiba. Aqui compartilho todos os meus conhecimentos sobre  Desenvolvimento Web!
+### Sou Kleverson, aluno do Curso de Sistemas de Informação Pela Universidade Federal da Paraiba. Aqui compartilho todos os meus conhecimentos sobre  Desenvolvimento Web! Possuo conhecimentos em Banco de Dados, JavaScript, CSS e HTML.
 
 <!--
 **kleversonsilva/kleversonsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
