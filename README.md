@@ -1,4 +1,4 @@
-### Sou Kleverson, aluno do Curso de Sistemas de Informação Pela Universidade Federal da Paraiba. Aqui compartilho todos os meus conhecimentos sobre  Desenvolvimento Web! Possuo conhecimentos em Banco de Dados, JavaScript, CSS e HTML.
+### Sou Kleverson, Adadêmico em Sistemas de Informação Pela Universidade Federal da Paraiba. Aqui compartilho todos os meus conhecimentos sobre  Desenvolvimento Web! Possuo conhecimentos em Banco de Dados, JavaScript, CSS e HTML.
 
 <!--
 **kleversonsilva/kleversonsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
