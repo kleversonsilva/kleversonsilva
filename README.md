@@ -1,6 +1,6 @@
 ## Olá! Eu sou Kleverson silva✌️
 
-- Hoje trabalho como Tutor de Programação(EAD)!
+- Hoje trabalho como Tutor de Programação(AppInventor)!
 - Cadêmico do Curso de Sistemas De Informação
 - Pela Universidadde Federal da Paraiba!
 
