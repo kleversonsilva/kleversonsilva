@@ -1,7 +1,7 @@
 ## Olá! Eu sou Kleverson silva✌️
 
 - Já Trabalhei como Tutor de Programação(AppInventor)!
-- Cadêmico do Curso de Sistemas De Informação
+- Acadêmico do Curso de Bacharelado em Sistemas De Informação
 - Pela Universidadde Federal da Paraiba!
 
 <div>  
