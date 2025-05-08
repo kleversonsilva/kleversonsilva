@@ -1,4 +1,4 @@
-## Olá! sou Kleverson silva✌️
+## Olá, Sou Kleverson Silva✌️
 
 - Bacharel em Sistemas de Informação Pela Universidadde Federal da Paraiba.
 - Lecionei Aulas de Programação de Computaodres na Rede Municipa de João Pessoa - PB, Projeto CODE.
