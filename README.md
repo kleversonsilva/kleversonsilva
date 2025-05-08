@@ -1,8 +1,10 @@
 ## Olá! sou Kleverson silva✌️
 
-- Trabalhei anteriormente como Tutor de Programação(AppInventor)!
-- Acadêmico do Curso de Bacharelado em Sistemas De Informação
-- Pela Universidadde Federal da Paraiba!
+- Bacharel em Sistemas de Informação Pela Universidadde Federal da Paraiba.
+- Lecionei Aulas de Programação de Computaodres na Rede Municipa de João Pessoa - PB, Projeto CODE.
+- Estagiei No Tribunal Regional Eleitoral da Paraiba na Função de Web Designer.
+- Experiência em Projeto de Pesquisa e extenção na Àrea de Gerência de Software.
+  
 
 <div>  
 <a href="https://github.com/kleversonsilva">
