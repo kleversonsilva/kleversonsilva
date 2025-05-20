@@ -1,9 +1,25 @@
-## Olá, Sou Kleverson Silva✌️
+## Olá! 👋 Eu sou Kleverson Silva
+Bacharel em Sistemas de Informação pela Universidade Federal da Paraíba (UFPB), possuo experiência em diversas áreas da tecnologia, desde o ensino de programação até o desenvolvimento web e gerência de software.
 
-- Bacharel em Sistemas de Informação Pela Universidadde Federal da Paraiba.
-- Lecionei Aulas de Programação de Computaodres na Rede Municipa de João Pessoa - PB, Projeto CODE.
-- Estagiei No Tribunal Regional Eleitoral da Paraiba na Função de Web Designer.
-- Experiência em Projeto de Pesquisa e extenção na Àrea de Gerência de Software.
+# Experiência
+- Docência: Lecionei aulas de Programação de Computadores na Rede Municipal de João Pessoa - PB, no Projeto CODE.
+
+- Desenvolvimento Web: Estagiei no Tribunal Regional Eleitoral da Paraíba (TRE-PB) na função de Web Designer.
+
+- Pesquisa: Participei de projetos de pesquisa e extensão na área de Gerência de Software.
+
+# Formação
+- Bacharel em Sistemas de Informação pela Universidade Federal da Paraíba (UFPB)
+
+# Habilidades
+- Desenvolvimento Web: Python, C++, JavaScript(Angular, React, Vue.js) HTML5, CSS3, jQuery, Bootstrap, Gulp, MySQL e Oracle. 
+
+- Gerência de Software(Projeto de Pesquisa e Extenção pela Universidade Federal da Paraiba)
+
+# Contato
+www.linkedin.com/in/kleversonsilva-48751b202
+
+Sinta-se à vontade para explorar meus repositórios no GitHub e entrar em contato!
   
 
 <div>  
