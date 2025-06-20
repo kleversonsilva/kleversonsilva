@@ -1,5 +1,5 @@
 ## Olá! Sou Kleverson Silva 👋
-Bacharel em Sistemas de Informação pela Universidade Federal da Paraíba (UFPB), possuo experiência em diversas áreas da tecnologia, desde o ensino de programação até o desenvolvimento web e gerência de software.
+Bacharel em Sistemas de Informação pela Universidade Federal da Paraíba, possuo experiência em diversas áreas da tecnologia, desde o ensino de programação até o desenvolvimento web e gerência de software.
 
 # Experiência
 - Docência: Lecionei aulas de Programação de Computadores na Rede Municipal de João Pessoa - PB, no Projeto CODE.
@@ -9,10 +9,11 @@ Bacharel em Sistemas de Informação pela Universidade Federal da Paraíba (UFPB
 - Pesquisa: Participei de projetos de pesquisa e extensão na área de Gerência de Software.
 
 # Formação
-- Bacharel em Sistemas de Informação pela Universidade Federal da Paraíba (UFPB)
+- Bacharel em Sistemas de Informação pela Universidade Federal da Paraíba
+- Pós-graduando em Engenharia de software
 
 # Habilidades
-- Desenvolvimento Web: Python, C++, JavaScript(Angular, React, Vue.js) HTML5, CSS3, jQuery, Bootstrap, Gulp, MySQL e Oracle. 
+- Desenvolvimento Web: Python, C++, JavaScript(Angular, React, Vue.js), AWS, HTML5, CSS3, jQuery, Bootstrap, Gulp, MySQL e Oracle. 
 
 - Gerência de Software(Projeto de Pesquisa e Extenção pela Universidade Federal da Paraiba)
 
