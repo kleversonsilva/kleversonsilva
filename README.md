@@ -1,5 +1,5 @@
 ## Olá! Sou Kleverson Silva 👋
-Bacharel em Sistemas de Informação pela Universidade Federal da Paraíba, possuo experiência em diversas áreas da tecnologia, desde o ensino de programação até o desenvolvimento web e gerência de software.
+Bacharel em Sistemas de Informação pela Universidade Federal da Paraíba, possuo experiência em áreas da tecnologia, desde o ensino de programação até o desenvolvimento web e gerência de software.
 
 # Experiência
 - Docência: Lecionei aulas de Programação de Computadores na Rede Municipal de João Pessoa - PB, no Projeto CODE.
