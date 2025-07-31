@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
 </div>
-👋 Olá, eu sou Klverson silva
+👋 Olá, eu sou Klverson silva!
 
 ## 💼 Perfil Profissional
 
@@ -12,7 +12,7 @@
 
 ## Experiência
 - Docência: Contribuí com o ensino de Programação de Computadores para a Rede Municipal de João Pessoa - PB.
-- Designer Web: Estagiário em Web Design no Tribunal Regional Eleitoral da Paraíba (TRE-PB).
+- Designer Web: Estágio em Web Design no Tribunal Regional Eleitoral da Paraíba (TRE-PB).
 - Pesquisa: Experiência em pesquisa e extensão na área de Gerência de Software, desenvolvida no laboratório de computação da UFPB.
   
 ## Habilidades Tecnológicas
