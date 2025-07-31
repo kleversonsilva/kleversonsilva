@@ -1,18 +1,21 @@
-## Olá! Sou Kleverson Silva 👋
-Bacharel em Sistemas de Informação pela Universidade Federal da Paraíba, possuo experiência em áreas da tecnologia, desde o ensino de programação até o desenvolvimento web e gerência de software.
 
-# Experiência
-- Docência: Lecionei aulas de Programação de Computadores na Rede Municipal de João Pessoa - PB, no Projeto CODE.
+<div align="center">
+  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
+</div>
+👋 Olá, eu sou Klverson silva
 
-- Desenvolvimento Web: Estagiei no Tribunal Regional Eleitoral da Paraíba (TRE-PB) na função de Web Designer.
+## 💼 Perfil Profissional
 
-- Pesquisa: Participei de projetos de pesquisa e extensão na área de Gerência de Software.
+- 🎓 Pós-graduando em Engenharia de Software - Faculdade Focus
+- 🎓 Bacharel em Sistemas de Informação - UFPB
+- 💻 Bacharelando em Engenharia Eletrica - UNOPAR
 
-# Formação
-- Bacharel em Sistemas de Informação pela Universidade Federal da Paraíba
-- Pós-graduando em Engenharia de software
-
-# Habilidades
+## Experiência
+- Docência: Contribuí com o ensino de Programação de Computadores para a Rede Municipal de João Pessoa - PB.
+- Designer Web: Estagiário em Web Design no Tribunal Regional Eleitoral da Paraíba (TRE-PB).
+- Pesquisa: Experiência em pesquisa e extensão na área de Gerência de Software, desenvolvida no laboratório de computação da UFPB.
+  
+## Habilidades
 - Desenvolvimento Web: Python, C++, JavaScript(Angular, React, Vue.js), AWS, HTML5, CSS3, jQuery, Bootstrap, Gulp, MySQL e Oracle. 
 
 - Gerência de Software(Projeto de Pesquisa e Extenção pela Universidade Federal da Paraiba)
