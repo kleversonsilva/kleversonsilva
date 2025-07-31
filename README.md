@@ -15,7 +15,7 @@
 - Designer Web: Estagiário em Web Design no Tribunal Regional Eleitoral da Paraíba (TRE-PB).
 - Pesquisa: Experiência em pesquisa e extensão na área de Gerência de Software, desenvolvida no laboratório de computação da UFPB.
   
-## Habilidades Tecnologicas
+## Habilidades Tecnológicas
 💻 Aqui estão algumas das tecnologias que eu domino:
 - Desenvolvimento Web: Python, Java, C++, JavaScript, React, HTML5, CSS3, AWS, MySQL e Oracle.
     
