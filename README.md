@@ -17,14 +17,9 @@
   
 ## Habilidades
 - Desenvolvimento Web: Python, C++, JavaScript(Angular, React, Vue.js), AWS, HTML5, CSS3, jQuery, Bootstrap, Gulp, MySQL e Oracle. 
-
 - Gerência de Software(Projeto de Pesquisa e Extenção pela Universidade Federal da Paraiba)
 
-# Contato
-www.linkedin.com/in/kleversonsilva-48751b202
-
 Sinta-se à vontade para explorar meus repositórios no GitHub e entrar em contato!
-  
 
 <div>  
 <a href="https://github.com/kleversonsilva">
