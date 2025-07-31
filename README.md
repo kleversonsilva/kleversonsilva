@@ -18,6 +18,7 @@
 ## Habilidades Tecnológicas
  ⭐ Aqui estão algumas das tecnologias que eu domino:
 - Desenvolvimento Web: Python, Java, C++, JavaScript, React, HTML5, CSS3, AWS, MySQL e Oracle.
+- Ferramentas de Designer: Figma e Canva.
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
