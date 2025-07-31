@@ -16,7 +16,7 @@
 - Pesquisa: Experiência em pesquisa e extensão na área de Gerência de Software, desenvolvida no laboratório de computação da UFPB.
   
 ## Habilidades Tecnológicas
-💻 Aqui estão algumas das tecnologias que eu domino:
+ ⭐ Aqui estão algumas das tecnologias que eu domino:
 - Desenvolvimento Web: Python, Java, C++, JavaScript, React, HTML5, CSS3, AWS, MySQL e Oracle.
     
 <div style="display: inline_block"><br>
