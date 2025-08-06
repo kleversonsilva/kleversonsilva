@@ -15,10 +15,11 @@
 - Designer Web: Estágio em Web Design no Tribunal Regional Eleitoral da Paraíba (TRE-PB).
 - Pesquisa: Experiência em pesquisa e extensão na área de Gerência de Software, desenvolvida no laboratório de computação da UFPB.
   
-## Habilidades Tecnológicas
+## Habilidades e Competências
  ⭐ Aqui estão algumas das tecnologias que eu domino:
 - Desenvolvimento Web: Python, Java, C++, JavaScript, React, HTML5, CSS3, AWS, MySQL e Oracle.
 - Ferramentas de Designer: Figma e Canva.
+- Soft Skills: Trabalho em equipe, liderança, comunicação, proatividade.
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
